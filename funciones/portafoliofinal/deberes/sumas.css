@@ -1,0 +1,19 @@
+body,html{
+    background: #5190bb;
+    color: rgb(64, 82, 69);
+   
+} 
+button[type="submit"]{
+    border:0;
+    background:none;
+    display:block;
+    margin:15px auto;
+    padding:19px 17px;
+    text-align:center;
+    border:2px solid #750b8377;
+    width: 200px;
+    outline: #2f9ec0;
+    color: rgb(74, 74, 212);
+    border-radius: 24px;
+    transform: 0,50s;
+}

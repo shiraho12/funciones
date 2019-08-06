@@ -1,0 +1,31 @@
+body,html{
+    background: #d660d0;
+    color: rgb(24, 30, 83);
+   
+} 
+body{
+    margin: 0%;
+    padding: 0%;
+    background: 4%;
+    color: rgb(174, 127, 219);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center 
+
+}
+button[type="submit"]{
+    border:0;
+    background:none;
+    display:block;
+    margin:15px auto;
+    padding:19px 17px;
+    text-align:center;
+    border:2px solid #750b8377;
+    width: 200px;
+    outline: #2f9ec0;
+    color: rgb(74, 74, 212);
+    border-radius: 24px;
+    transform: 0,50s;
+}
